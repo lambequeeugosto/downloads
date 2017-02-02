@@ -234,18 +234,6 @@ hr {
   width: 100%;
 }
 
-.now { text-align: center }
-.now > img {
-  height: 50%;
-   width: 50%;
-}
-
-.freehugs {
-  text-align: center;
-   font-size: 128px;
-   font-size: 8rem;
-}
-
 .hidden { display: none }
 .art { cursor: pointer }
 .show-content { -webkit-animation: slide-to-top 1s forwards; animation: slide-to-top 1s forwards }
