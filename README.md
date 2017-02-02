@@ -1,0 +1,1 @@
+The code for this site is licensed under the [ISC License](LICENSE.md), however, all images are copyrighted by [Frida Krafft](mailto:info@fridakrafft.com) and their use is prohibited. Bummer right? I tried to tell her to share it with the world.. Fingers crossed for a CC license in the future.

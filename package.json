@@ -1,0 +1,23 @@
+{
+  "name": "fridakrafft.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "scripts/build.sh",
+    "watch": "scripts/watch.sh",
+    "start": "scripts/watch.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahstro <hi@ahst.ro> (http://ahst.ro)",
+  "license": "",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "eslint": "^2.3.0",
+    "eslint-config-standard": "^5.1.0",
+    "http-server": "^0.9.0",
+    "postcss-cli": "^2.5.1",
+    "postcss-cssnext": "^2.4.0"
+  }
+}
