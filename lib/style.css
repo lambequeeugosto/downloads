@@ -258,3 +258,18 @@ hr {
   from { margin-top: .2rem }
     to { margin-top: calc(50vh - 4rem) }
 }
+
+.info p,
+.info a {
+    font-family: 'Space Mono', monospace;
+    font-size: 1.0vw;
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+}
+
+window.scroll({
+  top: 2500,
+  left: 0,
+  behavior: 'smooth'
+});
